@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lange="en">
+<head>
+<meta charset="UTF-8">
+<meta name="veiwport" content=""width=device-width, initial-scale=1.0">
+<title>Arevapes<title>
+</head>
+<body>
+
+ </body>
+</html>
+ <!-- Video Source -->
+  <!-- https://www.pexels.com/video/smoke-over-dark-background-6894947/ -->
+  <section class="showcase">
+    <header>
+      <h2 class="logo">Arevapes</h2>
+      <div class="toggle"></div>
+    </header>
+    <video src="pexels-ivan-khmelyuk-6894947.mp4" muted loop autoplay></video>
+    <div class="overlay"></div>
+    <div class="text">
+      <h2>Best Quality. </h2> 
+      <h3>Custimizible</h3>
+      <p>Arevapes has the best wide selection of vapes and custimizible ones too.</p>
+      <p>We only sell the best quality vapes and fast shipping.<p>
+      <a href="#">Shop Now</a>
+    </div>
+    </ul>
+  </section>
+  <div class="menu">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">Shop</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
